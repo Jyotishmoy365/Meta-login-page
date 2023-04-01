@@ -1,0 +1,13 @@
+.main-container {
+    background-image: url(rl0.webp);
+    background-size: cover;
+    height: 100vh;
+}
+.page {
+    width: 300px;
+    height: 500px;
+    background-color: aliceblue;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
